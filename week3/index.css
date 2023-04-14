@@ -1,8 +1,16 @@
 body {
   background-color: lightblue;
 }
-
 h1 {
-  color: navy;
-  margin-left: 20px;
+  background-color: green;
+}
+div {
+  background-color: lightblue;
+}
+p {
+  background-color: yellow;
+}
+div {
+  background-color: green;
+  opacity: 0.3;
 }
